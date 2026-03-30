@@ -39,24 +39,18 @@
 
 ---
 
-## ✍️ Latest Blog Posts
-
----
-
 ## 📫 Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/biplobmanna" target="blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://x.com/biplobmanna" target="blank">
     <img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
+  &nbsp;
   <a href="https://biplobmanna.github.io" target="blank">
     <img align="center" src="https://img.shields.io/badge/Blog-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Blog" />
   </a>
-</p>
-
-<p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i> — Built with 💙 and Go.
 </p>
