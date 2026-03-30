@@ -18,3 +18,26 @@
 </p>
 
 ---
+
+## 📊 Live Metrics & Impact
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=biplobmanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biplobmanna&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=biplobmanna&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=biplobmanna&theme=tokyonight&area=true&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
