@@ -21,11 +21,42 @@
 
 ## 🛠 Technical Ecosystem
 
-| **Backend & Architecture** | **Systems & Databases** | **Specializations & Interests** |
-| :--- | :--- | :--- |
-| 🚀 **Go** (Golang) | 🐘 **PostgreSQL** | 🐚 **TUI Development** (BubbleTea) |
-| 🐍 **Python** & **Django** | 🏗 **Distributed Systems** | ⚙️ **Operating Systems** (OSTEP) |
-| 🔌 **RESTful API Design** | 🐧 **Linux Systems** | 🏎 **Embedded & Hardware** (RC Cars) |
-| 🏛 **System Architecture** | 🐙 **Git & CI/CD** | 👥 **Technical Leadership** |
+| **Backend & Architecture** | **Systems & Databases**    | **Specializations & Interests**      |
+| :------------------------- | :------------------------- | :----------------------------------- |
+| 🚀 **Go** (Golang)         | 🐘 **PostgreSQL**          | 🐚 **TUI Development** (BubbleTea)   |
+| 🐍 **Python** & **Django** | 🏗 **Distributed Systems** | ⚙️ **Operating Systems** (OSTEP)     |
+| 🔌 **RESTful API Design**  | 🐧 **Linux Systems**       | 🏎 **Embedded & Hardware** (RC Cars) |
+| 🏛 **System Architecture** | 🐙 **Git & CI/CD**         | 👥 **Technical Leadership**          |
 
 ---
+
+## 🎯 Current Focus & R&D
+
+- 🛠 **Building:** A Go-based CLI development logger using [BubbleTea](https://github.com/charmbracelet/bubbletea).
+- 📖 **Deep Dive:** Mastering low-level systems via _Operating Systems: Three Easy Pieces_ (OSTEP).
+- 🎓 **Learning:** Advanced Backend Systems through the **Boot.dev** professional path.
+- 🏎 **Side Project:** Engineering a remote-controlled car using custom hardware and Go.
+
+---
+
+## ✍️ Latest Blog Posts
+
+---
+
+## 📫 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/biplobmanna" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/biplobmanna" target="blank">
+    <img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="https://biplobmanna.github.io" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Blog-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Blog" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication."</i> — Built with 💙 and Go.
+</p>
