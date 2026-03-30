@@ -51,6 +51,6 @@
   </a>
   &nbsp;
   <a href="https://biplobmanna.github.io" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Blog-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Blog" />
+      <img align="center" src="https://img.shields.io/badge/Blog-Jekyll-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white" alt="Blog" />
   </a>
 </p>
