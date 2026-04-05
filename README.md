@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=00ADD8&height=200&section=header&text=Hey,%20I'm%20Biplob%20👋&fontSize=60&animation=fadeIn&fontAlignY=45&desc=writing%20Go%20by%20day%2C%20breaking%20things%20by%20night&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ADD8,100:008080&height=200&section=header&text=Hey,%20I'm%20Biplob%20👋&fontSize=60&animation=fadeIn&fontAlignY=45&fontColor=FFFFFF&desc=writing%20Go%20by%20day%2C%20breaking%20things%20by%20night&descAlignY=65&descSize=20&descColor=FFFFFF" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Tech+Lead+%40+Hitachi+Vantara;Go+enjoyer+%26+CLI+tinkerer;Building+a+split+keyboard+%E2%8C%A8%EF%B8%8F" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=biplobmanna&label=PROFILE+VIEWS&color=00ADD8&style=flat-square" />
 </p>
 
 ---
