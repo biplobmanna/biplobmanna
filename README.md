@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=00ADD8&height=180&section=header&text=Hey,%20I'm%20Biplob%20👋&fontSize=60&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=00ADD8&height=200&section=header&text=Hey,%20I'm%20Biplob%20👋&fontSize=60&animation=fadeIn&fontAlignY=45&desc=writing%20Go%20by%20day%2C%20breaking%20things%20by%20night&descAlignY=65&descSize=20" />
 </p>
 
 <p align="center">
